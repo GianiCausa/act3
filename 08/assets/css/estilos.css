@@ -1,0 +1,20 @@
+body{
+    background-color: orangered;
+}
+
+.carousel-inner{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.carousel-caption d-none d-md-block{
+    text-align: left;
+}
+
+.carousel-caption{
+    position: absolute;
+    right: 80%;
+    padding-bottom: 18rem;
+
+    
+}
